@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋 I'm Dorcas
 
-<!--
-**dorcaskupler/dorcaskupler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student  
+💻 Currently learning Python and backend development  
+🌱 Interested in full-stack development and cybersecurity  
+🔐 Passionate about building secure and scalable applications  
 
-Here are some ideas to get you started:
+### 🛠 Skills (Growing)
+- Python  
+- HTML & CSS (basic)  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- Strengthening Python fundamentals  
+- Building small projects consistently  
+- Writing clean and readable code  
+
+### 🎯 Long-Term Goal
+Become a full-stack developer with strong cybersecurity skills.  
+
+### 🌐 Communities & Organizations
+- @GitHub  
+- @freeCodeCamp  
+- @PythonSoftwareFoundation  
+- @PyLadies  
+- @OpenSourceGhana  
+
+📫 Open to learning, collaboration, and mentorship
+
+
